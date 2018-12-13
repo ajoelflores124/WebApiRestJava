@@ -18,7 +18,7 @@ public class JavaAppGit {
         // TODO code application logic here
         
         System.out.println("  asdadd");
-        System.out.println("  Hola mundo  ");
+        System.out.println("  Hola mundo  EDITADO desde Cloud  ");
     }
     
 }
